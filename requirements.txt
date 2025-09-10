@@ -1,0 +1,8 @@
+opencv-python
+aiortc
+websockets
+ultralytics
+numpy==1.26.4
+adafruit-circuitpython-mlx90640
+pyaudio
+av
